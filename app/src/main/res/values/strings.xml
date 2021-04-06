@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS Blast</string>
+    <string name="settings">Settings</string>
+    <string name = "themes">Themes</string>
+    <string name="about">About</string>
+
+    <string name="my_tiitle">SMS Blast IPL/WTP</string>
+
+</resources>
